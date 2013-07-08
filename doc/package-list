@@ -1,0 +1,7 @@
+com.evdb.javaapi
+com.evdb.javaapi.data
+com.evdb.javaapi.data.request
+com.evdb.javaapi.data.response
+com.evdb.javaapi.network
+com.evdb.javaapi.operations
+com.evdb.javaapi.util
